@@ -262,7 +262,8 @@ function datepicker(){
   // E.g. Yesterday, 2 weeks ago, next year.
   //
 
-  $('.datepicker-presets a').on('click', function(){
+  $('.datepicker-presets a').on('click', function(e){
+    e.preventDefault()
 
     var newDate = $(this).data('preset-date')
 
