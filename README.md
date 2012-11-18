@@ -19,6 +19,7 @@ This demo the result of a weekend of experimentation. The concept is fun but som
 
 ### Todo List
 
+* Browser Test!
 * Figure out if/how it could work on small screens and handheld devices
 * Find a way to integrate day names
 * Find a way to negate picking days which don't exist (Feb 30th)
